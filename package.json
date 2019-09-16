@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/arlindopaulo/Video/issues"
   },
-  "homepage": "https://github.com/arlindopaulo/Video#readme"
+  "homepage": "https://github.com/arlindopaulo/Video#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
